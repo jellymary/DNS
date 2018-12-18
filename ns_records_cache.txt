@@ -1,0 +1,1 @@
+{"": [["l.root-servers.net", -1], ["m.root-servers.net", -1]], "ru": [["a.dns.ripn.net", 1536920758], ["b.dns.ripn.net", 1536920758], ["d.dns.ripn.net", 1536920758], ["e.dns.ripn.net", 1536920758], ["f.dns.ripn.net", 1536920758]], "e1.ru": [["ns.ngs.ru", 1537093558], ["ns1.e1.ru", 1537093558], ["ns2.e1.ru", 1537093558], ["ns2.ngs.ru", 1537093558]]}
